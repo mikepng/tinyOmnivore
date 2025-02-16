@@ -1,4 +1,4 @@
-# Omnivore
+# tinyOmnivore
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/omnivore-app/omnivore/run-tests.yaml?branch=main)](https://github.com/omnivore-app/omnivore/actions/workflows/run-tests.yaml)
 [![Discord](https://img.shields.io/discord/844965259462311966?label=Join%20our%20Discord)](https://discord.gg/h2z5rppzz9)
@@ -8,7 +8,8 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/u/70113176?s=400&u=506b21d9f019f3160963c010ef363667fb24c7c9&v=4" height="150px" alt="Omnivore Logo">
 
-[Omnivore](https://omnivore.app) is a complete, open source read-it-later solution for people who like text.
+Self-Hosted, Open-Source Reading Platform for Raspberry Pi
+
 
 We built Omnivore because we love reading and we want it to be more social. Join us!
 
